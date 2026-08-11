@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Currently working on: Wireless Power Transmission & innovative EEE projects<br>🤝 Looking to collaborate on: Electrical, Electronics, IoT & Arduino projects<br>💡 Looking for help with: Embedded systems, automation & circuit design<br>🌱 Currently learning: Python, MATLAB, VHDL & Embedded Systems<br>💬 Ask me about: EEE, electronics, Arduino, C, Python & MATLAB<br>🚀 Goal: To develop practical solutions using technology and engineering<br>⚡ Fun fact: I believe the best way to learn engineering is by building things!
+⚡ Currently working on: Wireless Power Transmission & innovative EEE projects<br>🤝 Looking to collaborate on: Electrical, Electronics, IoT & Arduino projects<br>💡 Looking for help with: Embedded systems, automation & circuit design<br>🌱 Currently learning: Python, MATLAB, VHDL & Embedded Systems<br>💬 Ask me about: EEE, electronics, Arduino, C, Python & MATLAB<br>🚀 Goal: To develop practical solutions using technology and engineering<br>⚡ Fun fact: I believe the best way to learn engineering is by building things !
 
 
 ## 🌐 Socials:
