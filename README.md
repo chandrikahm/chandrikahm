@@ -162,8 +162,8 @@ Created a smoke alarm system that triggers alerts when smoke is detected.
 | Qualification | Institution | Year | Result |
 |---|---|---:|---:|
 | **B.E. – Electrical & Electronics Engineering** | Sapthagiri College of Engineering, Bengaluru | 2023–2027 | **7.65 CGPA** |
-| **Senior Secondary – 12th** | Vikasa PU College | 2023 | **80%** |
-| **Secondary – 10th** | BMN Public School | 2021 | **76%** |
+| **Senior Secondary – 12th** | Vikasa PU College | 2023 | **8.42 CGPA** |
+| **Secondary – 10th** | BMN Public School | 2021 | **8.10 CGPA** |
 
 ---
 
